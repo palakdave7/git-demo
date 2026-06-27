@@ -1,8 +1,0 @@
-ls  for branch history
-git status command for checking uncommited history
-git add specific file name OR git add . for all
-
-use first git add 
-then will show list after that go for number of files separated message for each file commit
-
-hii
